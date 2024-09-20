@@ -1,7 +1,7 @@
 Yan Etki Analizi ve Veri Ön İşleme (Side Effect Analysis and Preprocessing)
 
 **Ad Soyad:** Bilal Örgen  
-**E-posta:** bilalorgen@example.com
+**E-posta:** bilalorgen7@gmail.com
 
 **Proje Açıklaması**
 Bu proje, ilaçların yan etkilerini analiz etmek ve eksik veri sorunlarını çözmek amacıyla yapılmıştır. 
